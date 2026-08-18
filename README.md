@@ -5,7 +5,7 @@
 
 ### Sergio Gabriel La Grutta Vaccarini
 
-(./yo.png)
+![Mi Foto](./yo.png)
 
 Hola, Mi nombre es Sergio y empecé estudiando las tecnicaturas de Programación y Programación en videojuegos pero por unos cambios que se hicieron en las carreras actualemte estoy estudiando las Licenciaturas de estas carreras
 
